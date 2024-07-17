@@ -1,0 +1,15 @@
+C:\Users\kirill\source\repos\ShadowRDP\bin\Debug\ShadowRDP.exe.config
+C:\Users\kirill\source\repos\ShadowRDP\bin\Debug\ShadowRDP.exe
+C:\Users\kirill\source\repos\ShadowRDP\bin\Debug\ShadowRDP.pdb
+C:\Users\kirill\source\repos\ShadowRDP\obj\Debug\ShadowRDP.csproj.AssemblyReference.cache
+C:\Users\kirill\source\repos\ShadowRDP\obj\Debug\MainWindow.g.cs
+C:\Users\kirill\source\repos\ShadowRDP\obj\Debug\App.g.cs
+C:\Users\kirill\source\repos\ShadowRDP\obj\Debug\ShadowRDP_MarkupCompile.cache
+C:\Users\kirill\source\repos\ShadowRDP\obj\Debug\ShadowRDP_MarkupCompile.lref
+C:\Users\kirill\source\repos\ShadowRDP\obj\Debug\MainWindow.baml
+C:\Users\kirill\source\repos\ShadowRDP\obj\Debug\ShadowRDP.g.resources
+C:\Users\kirill\source\repos\ShadowRDP\obj\Debug\ShadowRDP.Properties.Resources.resources
+C:\Users\kirill\source\repos\ShadowRDP\obj\Debug\ShadowRDP.csproj.GenerateResource.cache
+C:\Users\kirill\source\repos\ShadowRDP\obj\Debug\ShadowRDP.csproj.CoreCompileInputs.cache
+C:\Users\kirill\source\repos\ShadowRDP\obj\Debug\ShadowRDP.exe
+C:\Users\kirill\source\repos\ShadowRDP\obj\Debug\ShadowRDP.pdb

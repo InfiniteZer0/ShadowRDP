@@ -1,0 +1,14 @@
+﻿<Window x:Class="ShadowRDP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ShadowRDP"
+        mc:Ignorable="d"
+        Title="Shadow RDP" Height="150" Width="300" ResizeMode="NoResize">
+    
+    <Grid>
+        <TextBox x:Name="ServerNameTextBox" HorizontalAlignment="Center" Height="23" Margin="0,41,0,0" TextWrapping="Wrap" Text="Server Name" VerticalAlignment="Top" Width="260"/>
+        <Button x:Name="ConnectButton" Content="Connect" HorizontalAlignment="Center" VerticalAlignment="Top" Width="260" Height="30" Margin="0,74,0,0" Click="ConnectButton_Click" />
+    </Grid>
+</Window>
